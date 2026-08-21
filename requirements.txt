@@ -1,0 +1,18 @@
+boto3 == 1.43.56
+opensearch-py
+botocore == 1.43.56
+retrying
+ipywidgets
+iprogress
+langchain == 0.3.17
+langchain_aws == 0.2.10
+langchain-core == 0.3.34
+langchain_community == 0.3.16
+requests
+pypdf
+tqdm
+pandas
+haystack-ai
+datasets == 3.6.0
+pyarrow == 25.0.1
+ragas == 0.1.9
